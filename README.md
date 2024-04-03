@@ -4,6 +4,7 @@ AI model for emotion detection from images using deep learning techniques. The m
 
 ## Dataset
 The model is trained on a dataset from kaggle containing images labeled with various emotions .
+here is the link "https://www.kaggle.com/datasets/msambare/fer2013"
 
 ## Installation
 
